@@ -1,0 +1,71 @@
+body {
+  color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  background-color: #ffffff;
+}
+.logo-blue {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+}
+.logo {
+  color: #2e2f42;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 5px 5px;
+  text-transform: uppercase;
+}
+
+.nav-links {
+  color: #2e2f42;
+  text-decoration: none;
+  font-style: normal;
+}
+.nav-links:hover,
+.nav-links::after {
+  color: #404bbf;
+}
+.contacts-links {
+  font-weight: 400;
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+.contacts-links:hover {
+  color: #404bbf;
+}
+.hero {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+.hero-text {
+  font-size: 56px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 16px 32px;
+  border-radius: 4px;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+
+.small-text {
+  color: #434455;
+}
+.footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+  width: 1440px;
+  height: 321px;
+}
+.ourteam-color {
+  background-color: #f4f4fd;
+}

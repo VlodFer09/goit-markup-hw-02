@@ -6,10 +6,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.logo > span {
-  color: #2e2f42;
-  font-family: 'Raleway', sans-serif;
-}
+
 .logo {
   color: #4d5ae5;
   text-decoration: none;
@@ -20,6 +17,9 @@ body {
   text-transform: uppercase;
   line-height: 1.17;
   letter-spacing: 0.03em;
+}
+.logo-part {
+  color: #2e2f42;
 }
 
 .nav-links {

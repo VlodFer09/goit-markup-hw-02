@@ -28,6 +28,7 @@ body {
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 .nav-links:hover,
 .nav-links::after,
@@ -45,7 +46,8 @@ body {
   text-decoration: none;
 }
 .contacts-links:hover,
-.contacts-links::after {
+.contacts-links::after,
+.contacts-links:focus {
   color: #404bbf;
 }
 .hero {
@@ -54,6 +56,9 @@ body {
   height: 600px;
 }
 .hero-text {
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
   font-size: 56px;
   font-weight: 700;
   color: #ffffff;
@@ -69,10 +74,18 @@ body {
   cursor: pointer;
 }
 .button:hover,
-.button:after {
+.button:after,
+.button:focus {
   background-color: #404bbf;
 }
-.F-h {
+.F-h2 {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.F-h3 {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;

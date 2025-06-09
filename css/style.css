@@ -84,19 +84,19 @@ body {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .features-p {
   font-size: 16px;
-  line-height: 0.02em;
+  line-height: 1.5;
 }
 
-.ourteam-color {
+.ourteam {
   background-color: #f4f4fd;
 }
 
-.ourteam-color ul {
+.ourteam-color {
   background-color: #ffffff;
 }
 

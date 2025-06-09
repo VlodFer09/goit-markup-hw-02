@@ -92,11 +92,7 @@ body {
   line-height: 1.5;
 }
 
-.ourteam {
-  background-color: #f4f4fd;
-}
-
-.ourteam-color {
+.ourcolor {
   background-color: #ffffff;
 }
 
@@ -140,8 +136,6 @@ body {
 .footer {
   background-color: #2e2f42;
   color: #f4f4fd;
-  width: 1440px;
-  height: 321px;
 }
 .footer .white {
   color: #f4f4fd;

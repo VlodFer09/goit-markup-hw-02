@@ -64,7 +64,6 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
-  padding: 16px 32px;
   border-radius: 4px;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -75,19 +74,23 @@ body {
 .button:focus {
   background-color: #404bbf;
 }
-.Features-h2 {
+.F-main-h {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.Features-h3 {
+.Features-h {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+}
+.Features-p {
+  font-size: 16px;
+  line-height: 0.02em;
 }
 
 .ourteam-color {
@@ -98,7 +101,7 @@ body {
   background-color: #ffffff;
 }
 
-.ourteam-h2 {
+.ourteam-main-h {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -106,7 +109,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.ourteam-h3 {
+.ourteam-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -116,7 +119,7 @@ body {
 .ourteam-p {
   font-size: 16px;
 }
-.Portfolio-h2 {
+.Portfolio-main-h {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -124,7 +127,7 @@ body {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.Portfolio-h3 {
+.Portfolio-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

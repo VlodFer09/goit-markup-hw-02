@@ -21,7 +21,7 @@ body {
   color: #2e2f42;
 }
 
-.nav-links {
+.nav-list .nav-links {
   color: #2e2f42;
   text-decoration: none;
   font-style: normal;
@@ -63,7 +63,6 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
-  border-radius: 4px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
@@ -91,8 +90,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
 }
-
-.ourcolor {
+.teamcolor {
+  background-color: #f4f4fd;
+}
+.ourteam-color {
   background-color: #ffffff;
 }
 

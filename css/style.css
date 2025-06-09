@@ -31,7 +31,6 @@ body {
   font-weight: 500;
 }
 .nav-links:hover,
-.nav-links::after,
 .nav-links:focus {
   color: #404bbf;
 }
@@ -92,11 +91,15 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.Features-p {
-}
+
 .ourteam-color {
   background-color: #f4f4fd;
 }
+
+.ourteam-color ul {
+  background-color: #ffffff;
+}
+
 .ourteam-h2 {
   font-size: 36px;
   line-height: 1.11;
@@ -104,9 +107,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-}
-.ourteam-color ul {
-  background-color: #ffffff;
 }
 .ourteam-h3 {
   font-weight: 500;
